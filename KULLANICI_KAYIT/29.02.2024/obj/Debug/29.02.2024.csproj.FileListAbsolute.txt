@@ -1,0 +1,27 @@
+C:\Users\User\Desktop\29.02.2024\29.02.2024\bin\Debug\29.02.2024.exe.config
+C:\Users\User\Desktop\29.02.2024\29.02.2024\bin\Debug\29.02.2024.exe
+C:\Users\User\Desktop\29.02.2024\29.02.2024\bin\Debug\29.02.2024.pdb
+C:\Users\User\Desktop\29.02.2024\29.02.2024\obj\Debug\29.02.2024.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\29.02.2024\29.02.2024\obj\Debug\_29._02._2024.Form1.resources
+C:\Users\User\Desktop\29.02.2024\29.02.2024\obj\Debug\_29._02._2024.Properties.Resources.resources
+C:\Users\User\Desktop\29.02.2024\29.02.2024\obj\Debug\29.02.2024.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\29.02.2024\29.02.2024\obj\Debug\29.02.2024.exe
+C:\Users\User\Desktop\29.02.2024\29.02.2024\obj\Debug\29.02.2024.pdb
+E:\tüm dosyalar\yiğithandan aldıklarım\NESNE TABANLI PROGAMLAMA II\29.02.2024\29.02.2024\bin\Debug\29.02.2024.exe.config
+E:\tüm dosyalar\yiğithandan aldıklarım\NESNE TABANLI PROGAMLAMA II\29.02.2024\29.02.2024\obj\Debug\29.02.2024.exe
+E:\tüm dosyalar\yiğithandan aldıklarım\NESNE TABANLI PROGAMLAMA II\29.02.2024\29.02.2024\obj\Debug\29.02.2024.pdb
+E:\tüm dosyalar\yiğithandan aldıklarım\NESNE TABANLI PROGAMLAMA II\29.02.2024\29.02.2024\bin\Debug\29.02.2024.exe
+E:\tüm dosyalar\yiğithandan aldıklarım\NESNE TABANLI PROGAMLAMA II\29.02.2024\29.02.2024\bin\Debug\29.02.2024.pdb
+E:\tüm dosyalar\yiğithandan aldıklarım\NESNE TABANLI PROGAMLAMA II\29.02.2024\29.02.2024\obj\Debug\29.02.2024.csprojResolveAssemblyReference.cache
+E:\tüm dosyalar\yiğithandan aldıklarım\NESNE TABANLI PROGAMLAMA II\29.02.2024\29.02.2024\obj\Debug\_29._02._2024.Form1.resources
+E:\tüm dosyalar\yiğithandan aldıklarım\NESNE TABANLI PROGAMLAMA II\29.02.2024\29.02.2024\obj\Debug\_29._02._2024.Properties.Resources.resources
+E:\tüm dosyalar\yiğithandan aldıklarım\NESNE TABANLI PROGAMLAMA II\29.02.2024\29.02.2024\obj\Debug\29.02.2024.csproj.GenerateResource.Cache
+D:\GİTHUB\KULLANICI_KAYIT\29.02.2024\bin\Debug\29.02.2024.exe.config
+D:\GİTHUB\KULLANICI_KAYIT\29.02.2024\obj\Debug\29.02.2024.exe
+D:\GİTHUB\KULLANICI_KAYIT\29.02.2024\obj\Debug\29.02.2024.pdb
+D:\GİTHUB\KULLANICI_KAYIT\29.02.2024\bin\Debug\29.02.2024.exe
+D:\GİTHUB\KULLANICI_KAYIT\29.02.2024\bin\Debug\29.02.2024.pdb
+D:\GİTHUB\KULLANICI_KAYIT\29.02.2024\obj\Debug\29.02.2024.csprojResolveAssemblyReference.cache
+D:\GİTHUB\KULLANICI_KAYIT\29.02.2024\obj\Debug\_29._02._2024.Form1.resources
+D:\GİTHUB\KULLANICI_KAYIT\29.02.2024\obj\Debug\_29._02._2024.Properties.Resources.resources
+D:\GİTHUB\KULLANICI_KAYIT\29.02.2024\obj\Debug\29.02.2024.csproj.GenerateResource.Cache
